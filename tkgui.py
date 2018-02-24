@@ -1,6 +1,8 @@
 from tkinter import *
 import sys
 
+#Learning from https://likegeeks.com/python-gui-examples-tkinter-tutorial/
+
 mainWindow = Tk()
 
 mainWindow.title("Whoaaa a window")
